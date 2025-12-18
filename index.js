@@ -5,8 +5,9 @@ const fs = require('fs');
 
 // ===== CONFIGURARE =====
 const config = {
-    BOT_TOKEN: 'TELEGRAM_BOT_TOKEN_AICI', // Înlocuiește cu tokenul tău
-    ADMIN_ID: 'ID_TELEGRAM_AICI', // Găsește-ți ID-ul cu @userinfobot
+    BOT_TOKEN: '8385001997:AAFxEvEayi4sIbgpkHaUPhwc
+gWtWLSEVAew', // Înlocuiește cu tokenul tău
+    ADMIN_ID: '8566695311', // Găsește-ți ID-ul cu @userinfobot
     SERVER_PORT: 3000,
     VERSION: '1.0.0'
 };
